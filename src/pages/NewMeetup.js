@@ -1,4 +1,4 @@
-const NewMeetup = () => {
+const NewMeetups = () => {
   return <div>New Meetups page</div>;
 };
-export default NewMeetup;
+export default NewMeetups;
